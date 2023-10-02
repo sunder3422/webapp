@@ -11,6 +11,7 @@
 			<td>Student Class</td>
 		</tr>
 	</table>
+	<h3>Adding new table here</h3>
 </div>
 </body>
 </html>
